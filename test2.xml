@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gang>
+	<gang_name>Regulators</gang_name>
+	<gang_type>Orlock</gang_type>
+	<gang_rating>2578</gang_rating>
+	<campaign>Sumptown Junction</campaign>
+	<url>http://necromunda.yaktribe.org/gang/view/1634/regulators</url>
+	<credits>7</credits>
+	<territories>
+		<territory>
+			<territory_name>Drinking Hole</territory_name>
+			<territory_income>D6x10</territory_income>
+		</territory>
+		<territory>
+			<territory_name>Holestead</territory_name>
+			<territory_income>D6x10</territory_income>
+		</territory>
+		<territory>
+			<territory_name>Settlement</territory_name>
+			<territory_income>30</territory_income>
+		</territory>
+		<territory>
+			<territory_name>Spore Cave</territory_name>
+			<territory_income>2D6x10</territory_income>
+		</territory>
+		<territory>
+			<territory_name>Old Ruins</territory_name>
+			<territory_income>10</territory_income>
+		</territory>
+		<territory>
+			<territory_name>Vents</territory_name>
+			<territory_income>10</territory_income>
+		</territory>
+	</territories>
+	<gang_stash>
+			<stash_item>Autopistol</stash_item>
+			<stash_item>Mung Vase</stash_item>
+			<stash_item>Respirator</stash_item>
+			<stash_item>Respirator</stash_item>
+	</gang_stash>
+	<gang_notes></gang_notes>
+	<gangers>
+		<ganger>
+			<name>Clint</name>
+			<type>Leader</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>5</ws>
+			<bs>5</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>2</w>
+			<i>5</i>
+			<a>1</a>
+			<ld>8</ld>
+			<xp>197</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Chainsword</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Bio-Scanner</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Frag Grenades</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Grenade Launcher</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Bolt Pistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-visor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Escape Artist</skill>
+				<skill>Impetuous</skill>
+			</skills>
+			<injuries>
+				<injury>Impressive Scars</injury>
+			</injuries>
+			<cost>330</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Doc</name>
+			<type>Heavy</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>3</ws>
+			<bs>4</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>1</w>
+			<i>5</i>
+			<a>1</a>
+			<ld>7</ld>
+			<xp>160</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Heavy Bolter</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-visor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Medic</skill>
+			</skills>
+			<injuries>
+				<injury>Chest Wound</injury>
+			</injuries>
+			<cost>265</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Wyatt</name>
+			<type>Ganger</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>4</ws>
+			<bs>4</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>1</w>
+			<i>3</i>
+			<a>1</a>
+			<ld>7</ld>
+			<xp>124</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Shotgun</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Man-stopper Shotgun Shell</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Bolt Shotgun Shell</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-visor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Crack Shot</skill>
+				<skill>Hip Shooting</skill>
+				<skill>Medic</skill>
+				<skill>Rapid Fire</skill>
+				<skill>True Grit</skill>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>115</cost>
+			<notes>Rapid Fire - Shotgun</notes>
+		</ganger>
+		<ganger>
+			<name>Billy</name>
+			<type>Ganger</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>4</ws>
+			<bs>3</bs>
+			<s>3</s>
+			<t>4</t>
+			<w>1</w>
+			<i>3</i>
+			<a>1</a>
+			<ld>7</ld>
+			<xp>80</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autogun</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-visor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Armourer</skill>
+				<skill>Medic</skill>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>95</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Ned Logan</name>
+			<type>Ganger</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>4</ws>
+			<bs>6</bs>
+			<s>4</s>
+			<t>3</t>
+			<w>2</w>
+			<i>3</i>
+			<a>1</a>
+			<ld>7</ld>
+			<xp>126</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Infra-Goggles</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Silencer</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Hunting Rifle</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-visor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Crack Shot</skill>
+			</skills>
+			<injuries>
+				<injury>Arm Wound (Right)</injury>
+			</injuries>
+			<cost>140</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Kid</name>
+			<type>Juve</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>2</ws>
+			<bs>4</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>3</w>
+			<i>4</i>
+			<a>2</a>
+			<ld>7</ld>
+			<xp>82</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Hunting Rifle</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-visor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Counter Attack</skill>
+				<skill>Deflect</skill>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>75</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Wayne</name>
+			<type>Juve</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>2</ws>
+			<bs>3</bs>
+			<s>3</s>
+			<t>4</t>
+			<w>1</w>
+			<i>4</i>
+			<a>1</a>
+			<ld>6</ld>
+			<xp>62</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autopistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Chain</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-Contacts</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Bolt Pistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Berserk Charge</skill>
+				<skill>Crack Shot</skill>
+				<skill>Gunfighter</skill>
+				<skill>Hip Shooting</skill>
+				<skill>Marksman</skill>
+			</skills>
+			<injuries>
+				<injury>Horrible Scars</injury>
+				<injury>Horrible Scars</injury>
+			</injuries>
+			<cost>90</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>English Bob</name>
+			<type>Juve</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>3</ws>
+			<bs>2</bs>
+			<s>5</s>
+			<t>3</t>
+			<w>2</w>
+			<i>3</i>
+			<a>1</a>
+			<ld>6</ld>
+			<xp>86</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Bludgeon</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Berserker Chip</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Bolt Pistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Bulging Biceps</skill>
+				<skill>Combat Master</skill>
+				<skill>Counter Attack</skill>
+				<skill>Deflect</skill>
+				<skill>Feint</skill>
+				<skill>Killer Reputation</skill>
+			</skills>
+			<injuries>
+				<injury>Bitter Emnity</injury>
+			</injuries>
+			<cost>85</cost>
+			<notes>Hates Sister Dinah</notes>
+		</ganger>
+		<ganger>
+			<name>Holiday</name>
+			<type>Juve</type>
+			<title>Ganger</title>
+			<m>4</m>
+			<ws>3</ws>
+			<bs>2</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>1</w>
+			<i>4</i>
+			<a>1</a>
+			<ld>7</ld>
+			<xp>36</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autopistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Deflect</skill>
+				<skill>Juggernaught</skill>
+			</skills>
+			<injuries>
+				<injury>Old Battle Wound</injury>
+				<injury>Impressive Scars</injury>
+			</injuries>
+			<cost>40</cost>
+			<notes>Bedridden</notes>
+		</ganger>
+		<ganger>
+			<name>Wild Bill Hikcock </name>
+			<type>Juve</type>
+			<title>Ganger</title>
+			<m>4</m>
+			<ws>2</ws>
+			<bs>3</bs>
+			<s>3</s>
+			<t>4</t>
+			<w>2</w>
+			<i>3</i>
+			<a>2</a>
+			<ld>6</ld>
+			<xp>48</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autogun</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-Contacts</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Escape Artist</skill>
+				<skill>Marksman</skill>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>60</cost>
+			<notes>Permanent kill - 1
+Out Exploring</notes>
+		</ganger>
+		<ganger>
+			<name>Ellen Stone</name>
+			<type>Juve</type>
+			<title>Ganger</title>
+			<m>4</m>
+			<ws>4</ws>
+			<bs>2</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>1</w>
+			<i>3</i>
+			<a>2</a>
+			<ld>6</ld>
+			<xp>43</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autopistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Combat Master</skill>
+				<skill>Deflect</skill>
+				<skill>Disarm</skill>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>40</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Annie Oakley (IAGJ)</name>
+			<type>Juve</type>
+			<title>Top Juve</title>
+			<m>4</m>
+			<ws>2</ws>
+			<bs>3</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>1</w>
+			<i>4</i>
+			<a>1</a>
+			<ld>6</ld>
+			<xp>17</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Photo-Contacts</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Bolt Pistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Crack Shot</skill>
+			</skills>
+			<injuries>
+				<injury>Shell Shock</injury>
+				<injury>Infected Wound</injury>
+			</injuries>
+			<cost>65</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>William Money</name>
+			<type>Juve</type>
+			<title>Juve</title>
+			<m>4</m>
+			<ws>2</ws>
+			<bs>3</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>1</w>
+			<i>3</i>
+			<a>2</a>
+			<ld>6</ld>
+			<xp>14</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autopistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Photo-Contacts</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>55</cost>
+			<notes></notes>
+		</ganger>
+		<ganger>
+			<name>Calamity Jane</name>
+			<type>Juve</type>
+			<title>Juve</title>
+			<m>4</m>
+			<ws>2</ws>
+			<bs>2</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>2</w>
+			<i>3</i>
+			<a>1</a>
+			<ld>6</ld>
+			<xp>8</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Autopistol</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+			</skills>
+			<injuries>
+				<injury>Bitter Emnity</injury>
+			</injuries>
+			<cost>40</cost>
+			<notes>Hates Jade</notes>
+		</ganger>
+		<ganger>
+			<name>Bloo - Six</name>
+			<type>Ganger</type>
+			<title>Gang Champion</title>
+			<m>4</m>
+			<ws>4</ws>
+			<bs>4</bs>
+			<s>3</s>
+			<t>3</t>
+			<w>2</w>
+			<i>3</i>
+			<a>2</a>
+			<ld>7</ld>
+			<xp>98</xp>
+			<equipment>
+				<equipment_item>
+					<equipment_name>Boltgun</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Knife</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Mesh Armor</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+				<equipment_item>
+					<equipment_name>Sword</equipment_name>
+					<equipment_qty>1</equipment_qty>
+				</equipment_item>
+			</equipment>
+			<skills>
+				<skill>Combat Master</skill>
+			</skills>
+			<injuries>
+			</injuries>
+			<cost>125</cost>
+			<notes></notes>
+		</ganger>
+	</gangers>
+</gang>
